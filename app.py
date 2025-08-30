@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # FastAPI backend URL
-API_URL = "https://todo-backend.onrender.com"
+API_URL = "https://todo-backend-witu.onrender.com"
 
 st.set_page_config(page_title="To-Do List", page_icon="📝", layout="centered")
 
